@@ -2,7 +2,7 @@
 
 I’m a Software Engineer that likes to work with Software Architecture and Distributed Systems. I started in the I.T area in 2012. I like Open Source initiatives and I participate in the many meetups from the Open Source Community in my region. I like to make a bridge between the Customers and the Development team, and explain complex technical issues to clients and business issues to developers.
 
-- 👨‍💻 I’m currently work at [Senior](https://www.senior.com.br/) as system analyst.
+- 👨‍💻 I’m currently work at [Serasa](https://www.serasa.com.br/) as Technology Specialist.
 
 <p align="center">
 <a href="https://twitter.com/o_rebelo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leandrorebelo" height="20" width="20" /></a>
